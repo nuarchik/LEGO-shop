@@ -9,6 +9,9 @@
     border-radius: 10px;
     width: 103rem;
 }
+.card{
+    background-color: rgb(211, 211, 211);
+}
 a{
     text-decoration: none;
     color: black;
